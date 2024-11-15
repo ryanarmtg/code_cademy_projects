@@ -11,6 +11,22 @@ span {
     color: blue;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+  
+a {
+    display: block;
+    padding: 6px;
+    background-color: #dddddd;
+}
+
 .website_title {
     background-image: url("./images/pattern.jpeg");
     color: khaki;
