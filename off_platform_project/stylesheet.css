@@ -1,5 +1,5 @@
 .website_title {
-    background-image: "./images/pattern.jpg";
+    background-image: url("./images/pattern.jpeg");
     color: khaki;
     font-family: Helvetica;
     font-size: 100px;
